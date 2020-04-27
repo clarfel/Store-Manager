@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "314628294939",
+    "firebase_url": "https://store-manager-6259b.firebaseio.com",
+    "project_id": "store-manager-6259b",
+    "storage_bucket": "store-manager-6259b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314628294939:android:65b0b0ba7bbb364dd72bbe",
+        "android_client_info": {
+          "package_name": "com.khenissi.storemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314628294939-vu3an11u6psngma0u68q9ejgnvqj7dc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuZsVRxqxTGy4On2ldQdfA_snilyTPB8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314628294939-vu3an11u6psngma0u68q9ejgnvqj7dc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+export default Data = [
+  { id: 1, text: "Item One", price: 10, stock: 0 },
+  // { id: 2, text: "Item Two", price: 0, stock: 0 },
+  // { id: 3, text: "Item Three", price: 0, stock: 0 },
+  // { id: 4, text: "Item Four", price: 0, stock: 0 },
+  // { id: 5, text: "Item Five", price: 0, stock: 0 },
+  // { id: 6, text: "Item Six", price: 0, stock: 0 },
+  // { id: 7, text: "Item Seven", price: 0, stock: 0 },
+  // { id: 8, text: "Item Eight", price: 0, stock: 0 },
+  // { id: 9, text: "Item Nine", price: 0, stock: 0 },
+  // { id: 10, text: "Item Ten", price: 0, stock: 0 },
+  // { id: 11, text: "Item Eleven", price: 0, stock: 0 },
+  // { id: 12, text: "Item Twelve", price: 0, stock: 0 },
+  // { id: 13, text: "Item Thirteen", price: 0, stock: 0 },
+  // { id: 14, text: "Item Fourteen", price: 0, stock: 0 },
+  // { id: 15, text: "Item Fifteen", price: 0, stock: 0 },
+];
